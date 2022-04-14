@@ -1,0 +1,31 @@
+id: PFC8448CB
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG659
+  instance_id: http://purl.bdrc.io/resource/IE1KG659
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་རྣམ་བཞག་བསྟན་པའི་སྒྲོན་མེ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - liaoyi dashouyin gailun
+  author: http://purl.bdrc.io/resource/P1KG660
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    7042d57f87914ee5bd0a51ca3eb2b9a3:
+      title: པོད ༡་ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་རྣམ་བཞག་བསྟན་པའི་སྒྲོན་མེ
+      volume_number: 1
+      base_file: UT1KG659_I1KG680_0000.txt
+      reference: http://purl.bdrc.io/resource/VL86BA797854FAF38C
+      image_group: I1KG680
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG659
+  - http://purl.bdrc.io/resource/MW1KG659
+  ocr_software: Namsel
+created_at: '2021-12-22T10:59:59.299130'
+last_modified_at: '2021-12-22T10:59:59.299137'
